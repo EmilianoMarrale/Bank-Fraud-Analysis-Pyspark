@@ -4,3 +4,5 @@ pandaCheck.ipynb
 venv
 .idea
 .ipynb_checkpoints
+.DS_Store
+.gitattributes
