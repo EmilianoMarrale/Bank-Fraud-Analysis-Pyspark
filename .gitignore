@@ -6,3 +6,5 @@ venv
 .ipynb_checkpoints
 .DS_Store
 .gitattributes
+ddam
+.gitignore
